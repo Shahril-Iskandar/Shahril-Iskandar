@@ -27,6 +27,6 @@ Previously, I worked on research involving running biomechanics, wearable sensor
 
 ## Current work
 
-I am currently investigating how individuals with hip osteoarthritis respond to different gait modifications, with the aim of identifying personalised strategies that may hip joint loading and pain.
+I am currently investigating how individuals with hip osteoarthritis respond to different gait modifications, with the aim of identifying personalised strategies that changes the hip joint loading.
 
 <!-- To add links to ORCID, Google Scholar, LinkedIn -->
