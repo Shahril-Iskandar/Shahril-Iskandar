@@ -14,7 +14,7 @@ Previously, I worked on research involving running biomechanics, wearable sensor
 
 ## Tools
 
-`MATLAB` · `Python` · `R` · `OpenSim`
+`MATLAB` · `Python` · `R`
 
 ## Code associated with publications
 
